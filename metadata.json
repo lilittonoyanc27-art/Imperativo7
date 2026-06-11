@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Imperative Guide",
+  "description": "Interactive Spanish Imperative (Imperativo) learning platform with full grammar textbook in Armenian and 6 interactive educational games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
